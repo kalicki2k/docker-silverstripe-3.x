@@ -3,5 +3,5 @@
 echo "Starting MySQL Server..."
 service mysql start
 
-echo "Starting apache..."
+echo "Starting Apache Server..."
 apache2ctl -D FOREGROUND
