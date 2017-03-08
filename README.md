@@ -27,6 +27,11 @@ docker restart silverstripe
 ````
 ***
 
+#### Bash
+````
+docker exec -it silverstripe /bin/bash
+````
+
 #### Composer
 ````
 docker exec silverstripe composer install
