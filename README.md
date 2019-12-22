@@ -1,6 +1,6 @@
 # docker-silverstripe-3.x
 
-#### Built
+#### Build
 ````
 docker build -t kalicki2k/silverstripe-3.x .
 ````
